@@ -1,14 +1,9 @@
 # Writing_contents
 
-# Haripriya's Publications
+Writing has been one of my passions since Class 12. Alongside my engineering education, I enjoy expressing ideas through articles, essays, research paper publications, fiction, and non-fiction writing.
 
-## Technical Articles
+This repository is a collection of my works that reflect my interests in fiction and non-fictional motivational stories.
 
-- Future of AI
-- E-Waste Management
-- Vibration Article
-- Mathematical Article
-- Budget Essay
-
-## Author Profile
+# 7 of my published articles can be found on my Oaklores author profile:
 https://oaklores.com/author/haripriyavh/
+
